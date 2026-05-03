@@ -1,4 +1,4 @@
-# Data Fleet Management: OOP + SQLAlchemy + SQL Server
+# Python OOP + SQLAlchemy + SQL Server
 
 Este projeto demonstra a aplicação de **Programação Orientada a Objetos (OOP)** avançada em pipelines de dados, utilizando o **SQLAlchemy** como ORM para persistência no **SQL Server**.
 
